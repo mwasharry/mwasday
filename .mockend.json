@@ -1,5 +1,5 @@
 {
-  "rotavation": [
+   "rotavation": {
     {
       "payment": "MRGM",
       "Amount": 22500,
@@ -326,7 +326,7 @@
         }
       ]
     }
-  ]
+}
   "Post": {
     "cover": {
       "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
