@@ -1,5 +1,37 @@
 {
  
+  "rotavation":{
+  {
+      "payment": "MRGM",
+      "Amount": 22500,
+      "balance": "MWARICHO",
+      "vno": "GKB451H",
+      "date": "2022-07-10",
+      "tacres": 5,
+      "totalinstallments": "k82",
+      "rembal": 0,
+      "extra": 52,
+      "storage": "ROTAVATION",
+      "famount": 0,
+      "lubricants": 0,
+      "charges": 0,
+      "spare": 0,
+      "driver": 900,
+      "greaser": 430,
+      "supervisor": 280,
+      "consume": 0,
+      "name": "GITARI",
+      "type": "SHAKTMAN",
+      "id": "-N6djTZX04RTXDfLWcFD",
+      "acres": [
+        {
+          "tpayment": 4500,
+          "total": 5,
+          "amount": 22500
+        }
+      ]
+    }
+  }
   "Post": {
     "cover": {
       "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
